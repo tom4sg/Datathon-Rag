@@ -9,7 +9,7 @@ The goal is to enable more effective retrieval and discovery of places based on 
 
 ---
 
-## 🚀 Features
+## Features
 - Combines **dense, sparse, and image-based embeddings** for robust similarity search
 - Uses **FAISS** for efficient nearest neighbor search on dense/image vectors
 - Supports **cosine similarity** search for sparse embeddings
