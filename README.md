@@ -17,3 +17,5 @@ The goal is to enable more effective retrieval and discovery of places based on 
 - Batching, normalization, and pooling strategies for scalability
 
 ---
+https://github.com/user-attachments/assets/d139b7e4-dce4-49a3-95ab-e7e8c6897689
+
